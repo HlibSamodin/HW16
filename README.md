@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # GoITeens Homework: HW-16 — Layered Backgrounds
 
 ## 📝 Project Description

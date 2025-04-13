@@ -1,0 +1,14 @@
+body {
+    background-color: green;
+}
+
+.bg-box {
+    height: 500px;
+    background:
+        url(./images/grass.png) bottom / 125px 125px repeat-x,
+        url(./images/light-bulb.png) top / 30px 30px repeat-x,
+        url(./images/cabin.webp) center / 300px 200px no-repeat,
+        url(./images/hedgehog.png) left / 30px 30px repeat-y,
+        url(./images/donut.png) right / 30px 30px repeat-y;
+        height: 100vh;
+}

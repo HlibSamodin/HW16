@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # GoITeens Homework: HW-16 — Layered Backgrounds
 
 ## 📝 Project Description
@@ -24,3 +25,6 @@ The project creates a fun and colorful scene using five layered background image
 - How to use multiple background layers with `background` shorthand.
 - How to control background `size`, `position`, and `repeat` behavior.
 - How to visually arrange elements using only `CSS backgrounds`.
+=======
+
+>>>>>>> 731b65f647ba4fa3705a547300f17377cbcf232e
